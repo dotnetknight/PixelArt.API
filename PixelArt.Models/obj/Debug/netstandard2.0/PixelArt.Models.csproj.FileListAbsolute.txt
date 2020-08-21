@@ -1,0 +1,8 @@
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\bin\Debug\netstandard2.0\PixelArt.Models.deps.json
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\bin\Debug\netstandard2.0\PixelArt.Models.dll
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\obj\Debug\netstandard2.0\PixelArt.Models.AssemblyInfoInputs.cache
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\obj\Debug\netstandard2.0\PixelArt.Models.AssemblyInfo.cs
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\bin\Debug\netstandard2.0\PixelArt.Models.pdb
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\obj\Debug\netstandard2.0\PixelArt.Models.csprojAssemblyReference.cache
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\obj\Debug\netstandard2.0\PixelArt.Models.dll
+C:\Users\skott\Desktop\Projects\Core\PixelArtAPI\PixelArt.Models\obj\Debug\netstandard2.0\PixelArt.Models.pdb
